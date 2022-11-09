@@ -7,7 +7,7 @@ nav:
 
 # <i class="fas fa-envelope"></i>Contact
 
-Our lab is part of the [Cancer Center](https://www.bumc.bu.edu/cancercenter/), at the Boston University[Chobanian and Advisian School of Medicine](https://www.bumc.bu.edu/busm/).
+Our lab is part of the [Cancer Center](https://www.bumc.bu.edu/cancercenter/), at the Boston University [Chobanian and Advisian School of Medicine](https://www.bumc.bu.edu/busm/).
 We are located on the 4th floor of the Silvio O. Conte Medical Research Building
 
 {%

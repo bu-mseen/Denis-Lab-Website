@@ -1,7 +1,7 @@
 ---
 name: Christina Ennis 
 image: images/team/some-image.jpg
-role: PhD
+role: phd
 description: Graduate Student
 
 links:

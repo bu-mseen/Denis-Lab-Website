@@ -1,8 +1,8 @@
 ---
 name: Gerald Denis, PhD
 image: images/team/some-image.jpg
-role: Principal Investigator
-description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
+role: pi
+description: Principal Investigator
 
 links:
   home-page: https://tims-website.com/

@@ -32,7 +32,13 @@ Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deseru
   component="portrait"
   filters="role: programmer"
 %}
-{:.center}
+{%
+  include list.html
+  data="members"
+  component="portrait"
+  filters="role: Lab Technician"
+%}{:.center}
+
 
 {% include section.html background="images/banner.jpg" dark=true%}
 

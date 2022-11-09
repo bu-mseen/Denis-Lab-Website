@@ -7,8 +7,8 @@ nav:
 
 # <i class="fas fa-envelope"></i>Contact
 
-Our lab is part of the [Department of Metaphor](), at the school of [Whimsy and Caprice]().
-We are located on the 13th floor of the [Center for Wit and Sagacity]().
+Our lab is part of the [Cancer Center](https://www.bumc.bu.edu/cancercenter/), at the Boston University[Chobanian and Advisian School of Medicine](https://www.bumc.bu.edu/busm/).
+We are located on the 4th floor of the Silvio O. Conte Medical Research Building
 
 {%
   include link.html
@@ -34,7 +34,7 @@ We are located on the 13th floor of the [Center for Wit and Sagacity]().
   icon=""
   text="Google Maps"
   tooltip="Our location on Google Maps for easy navigation"
-  link="https://www.google.com/maps/place/That+St+%26+The+Other+St,+Porters+Lake,+NS+B3E+1H3,+Canada/@44.7389237,-63.3033296,20.78z/data=!4m5!3m4!1s0x4b5a31023bb02565:0xb9505694e83a53d7!8m2!3d44.7389353!4d-63.3030828"
+  link="https://www.google.com/maps/place/71+E+Concord+St,+Boston,+MA+02118/@42.3369051,-71.0752333,17z/data=!3m1!4b1!4m5!3m4!1s0x89e37a6aadcef44d:0x74330fad1a249500!8m2!3d42.3369051!4d-71.0730446"
   style="button"
 %}
 {:.center}

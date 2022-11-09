@@ -53,8 +53,8 @@ Boston, MA 02118
 {% capture col1 %}
 {%
   include figure.html
-  image="images/photo.jpg"
-  caption="The Center for Wit and Sagacity"
+  image="images/BUSM Building.jpg"
+  caption="Boston University School of Medicine"
 %}
 {% endcapture %}
 {% capture col2 %}

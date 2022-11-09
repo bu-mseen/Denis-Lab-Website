@@ -57,4 +57,4 @@ Boston, MA 02118
   caption="Boston University School of Medicine"
 %}
 {% endcapture %}
-{% include one-col.html col1=col1 col2=col2 %}
+{% include one-col.html col1=col1 %}

@@ -127,8 +127,8 @@
   publisher: Proceedings of the National Academy of Sciences
   date: '2013-03-11'
   link: https://doi.org/gq7m3r
-  image: https://www.ncbi.nlm.nih.gov/core/lw/2.0/html/tileshop_pmc/tileshop_pmc_inline.html?title=Click%20on%20image%20to%20zoom&p=PMC3&id=3612635_pnas.1215840110fig01.jpg
-  _cache: 0cde2b21279653439c5f82574358387e2354677ca8e08a602c712e2ca072a081
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3612635/figure/fig01/?report=objectonly
+  _cache: 54b17f402991d9c1008e8a7547cdad43e146bf105f3ed7217c6e72073ee07414
 - id: doi:10.1038/nrc3256
   title: BET domain co-regulators in obesity, inflammation and cancer
   authors:
@@ -139,3 +139,14 @@
   link: https://doi.org/f33rzx
   image: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fnrc3256/MediaObjects/41568_2012_Article_BFnrc3256_Fig5_HTML.jpg?as=webp
   _cache: b4948d384cb1869278ba1b215fd1776fea6d8ba9145c390db8bb0e3e34733609
+- id: doi:10.1111/j.1600-065X.2012.01142.x
+  title: The outliers become a stampede as immunometabolism reaches a tipping point
+  authors:
+  - Barbara S. Nikolajczyk
+  - Madhumita Jagannathan-Bogdan
+  - Gerald V. Denis
+  publisher: Immunological Reviews
+  date: '2012-08-14'
+  link: https://doi.org/f35qn9
+  image: https://onlinelibrary.wiley.com/cms/asset/30ee671a-63d8-4cb8-8c71-403611ee8ce8/imr1142_f2.gif
+  _cache: ba5479312cdcfa5166fc8fa538e63f780d33c47ebfa97b02f2ff886c71871069

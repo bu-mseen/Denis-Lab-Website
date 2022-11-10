@@ -103,8 +103,10 @@
   publisher: The Journal of Immunology
   date: '2013-02-18'
   link: https://doi.org/gnq375
-  image: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3608815/figure/F1/?report=objectonly
-  _cache: 938bf2785cfba495ca75cb5c0f064a8bab99a655b9ebe3d8b1b1163565f6259d
+  tags:
+  - Inflammation
+  - Brd2
+  _cache: e71d1a6251091381bd4d1a43bf7bc5249750667433623d08294659621262cf96
 - id: doi:10.1073/pnas.1215840110
   title: B cells promote inflammation in obesity and type 2 diabetes through regulation
     of T-cell function and an inflammatory cytokine profile
@@ -131,8 +133,10 @@
   publisher: Proceedings of the National Academy of Sciences
   date: '2013-03-11'
   link: https://doi.org/gq7m3r
-  image: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3612635/figure/fig01/?report=objectonly
-  _cache: 54b17f402991d9c1008e8a7547cdad43e146bf105f3ed7217c6e72073ee07414
+  tags:
+  - Type 2 Diabetes
+  - Inflammation
+  _cache: ea77bb939c17ea563e9ef2753e9a56f4f0a1f042d481ce4ddbc397db18b3f438
 - id: doi:10.1038/nrc3256
   title: BET domain co-regulators in obesity, inflammation and cancer
   authors:
@@ -142,7 +146,11 @@
   date: '2012-06-22'
   link: https://doi.org/f33rzx
   image: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fnrc3256/MediaObjects/41568_2012_Article_BFnrc3256_Fig5_HTML.jpg?as=webp
-  _cache: b4948d384cb1869278ba1b215fd1776fea6d8ba9145c390db8bb0e3e34733609
+  tags:
+  - Inflammation
+  - Obesity
+  - Cancer
+  _cache: e88969b0ba20d415f88274dd25e616682b9546102a5784a48bb82c5a59164da3
 - id: doi:10.1111/j.1600-065X.2012.01142.x
   title: The outliers become a stampede as immunometabolism reaches a tipping point
   authors:
@@ -153,7 +161,11 @@
   date: '2012-08-14'
   link: https://doi.org/f35qn9
   image: https://onlinelibrary.wiley.com/cms/asset/30ee671a-63d8-4cb8-8c71-403611ee8ce8/imr1142_f2.gif
-  _cache: ba5479312cdcfa5166fc8fa538e63f780d33c47ebfa97b02f2ff886c71871069
+  tags:
+  - Type 2 Diabetes
+  - Inflammation
+  - Immunometabolism
+  _cache: 905ed03b52e9f687843d7fb78f171a53cd07a7ec7824aa06b45c195e8f280bc3
 - id: pmc:PMC3025494
   title: Bromodomain coactivators in cancer, obesity, type 2 diabetes, and inflammation
   authors:
@@ -161,7 +173,12 @@
   publisher: Discovery medicine
   date: '2010-12-01'
   link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3025494/
-  _cache: c2d690cbb3ea0b82150abf51eb6d4cf7560450b1a9bd2af39a047621c1a32870
+  tags:
+  - Cancer
+  - Type 2 Diabetes
+  - Obesity
+  - Inflammation
+  _cache: ff958544755b36e28562d19f063faac9404cd1dd3f68a20d88c963c052403ebd
 - id: doi:10.1097/MED.0b013e32833c5c48
   title: Obesity genes and insulin resistance
   authors:
@@ -170,7 +187,10 @@
   publisher: Current Opinion in Endocrinology, Diabetes and Obesity
   date: '2010-10-01'
   link: https://doi.org/bcr739
-  _cache: ccee0d538a1291330bf0a65973db254ffb1a678772e1c0aa542315eee8b58283
+  tags:
+  - Obesity
+  - Type 2 Diabetes
+  _cache: 80403c2d640f66765efcd71fcd18f1007ab9352147b52de3e60a0823b06063c9
 - id: doi:10.1016/j.febslet.2010.05.030
   title: An emerging role for bromodomain-containing proteins in chromatin regulation
     and transcriptional control of adipogenesis
@@ -182,7 +202,9 @@
   date: '2010-05-21'
   link: https://doi.org/fsv8m6
   image: https://febs.onlinelibrary.wiley.com/cms/asset/236b4119-d1a8-4188-8232-c4c2e5bfc953/feb2s0014579310004230-fig1-m.jpg
-  _cache: 98e2aa1bb3876f32432bd13aafc50b95cfa2b348989fba00fa3d8ee3793d67ee
+  tags:
+  - Obesity
+  _cache: 344deb7c5772980ae400279dc2480e33d889db878631eb7571a5a8ce0b3bd9fa
 - id: doi:10.1042/BJ20090928
   title: "<i>Brd2</i> disruption in mice causes severe obesity without Type\_2 diabetes"
   authors:
@@ -196,7 +218,11 @@
   date: '2009-12-14'
   link: https://doi.org/ckdcn8
   image: https://port.silverchair-cdn.com/port/content_public/journal/biochemj/425/1/10.1042_bj20090928/2/bj4250071fig2.jpeg?Expires=1671117012&Signature=2y5dXZc3gBTKeOg9E0kxlQ2Yhm4xQSqbIssJVuDpnyC-AXLCTM2j4E4RovDRRmVPyA5uzRjESRoaueL6mKWCYF3sd2t27HanMA2Ru-OBLeqeRsw89obbStwX-jNRgdCRUCA4T3Cw5BTH~6NE3S9gvPZuJgClcH7IKqbTJLXBArh3P83YPE0oBoVoPz0msCIBobVOfnVMGD55h2mYETdhzlQtKdGjl44C7QGmQKmYW5u442P3JbxLPaB290j5dHIwYa6fjrLOazMBab5VVQvbaN~h~iRO2leXPjdRTbl0KUA1DFBrSmhdUE5LGSsbwOAd8clbUoqn0UemTFA6atRriA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA
-  _cache: 06d18ed68971d74ebdaf1ec00cb2b9776a4a6dbed2d5e57db05d7f26ca74e26b
+  tags:
+  - Obesity
+  - Type 2 Diabetes
+  - Brd2
+  _cache: 5ceb3ae67d01535627a727e23131e9c401166b552f59c0ce2c509df2df6d0a63
 - id: doi:10.1007/978-3-319-06103-0_5
   title: 'The Biology of Aging: Role in Cancer, Metabolic Dysfunction, and Health
     Disparities'
@@ -207,8 +233,13 @@
   publisher: Impact of Energy Balance on Cancer Disparities
   date: '2014-01-01'
   link: https://doi.org/gq7m6t
-  image: https://link.springer.com/chapter/10.1007/978-3-319-06103-0_5/figures/3
-  _cache: 4b46bd3dcff38eaae946bbcfa5503abe4ef5b41d819d73ba220ac65dba80df57
+  tags:
+  - Aging
+  - Cancer
+  - Obesity
+  - Inflammation
+  - Type 2 Diabetes
+  _cache: 208db9d84e4170358f249273791484f9889ed4f7e3c6d231f0b6c9c66206053b
 - id: doi:10.1097/01.med.0000433058.78485.b3
   title: Healthy obese persons
   authors:
@@ -217,7 +248,9 @@
   publisher: Current Opinion in Endocrinology, Diabetes &amp; Obesity
   date: '2013-10-01'
   link: https://doi.org/f5dq3n
-  _cache: 8d17f0121b6a34a2ce7b0b7ad58be7263a94ed8fa704f137531302401f802648
+  tags:
+  - Obesity
+  _cache: a8d44637839d3482679cbc73ae7b92375c33cbce39095e9cb0d6ac7f6f5ddfed
 - id: doi:10.1016/B978-0-12-407766-9.00003-1
   title: "Brd2 Gene Disruption Causes \u201CMetabolically Healthy\u201D Obesity"
   authors:
@@ -227,7 +260,11 @@
   publisher: Vitamins &amp; Hormones
   date: '2013-01-01'
   link: https://doi.org/f4kk7n
-  _cache: be262d8310a6106c9f8d7b126ecb08ba2c6a31e827e293872afee1e6b8f73506
+  tags:
+  - Obesity
+  - Brd2
+  - Type 2 Diabetes
+  _cache: 99c0656871a06250fd23b4340902b14617ad39069f5e0a1989459d08db663c69
 - id: doi:10.2741/a668
   title: Bromodomain motifs and scaffolding
   authors:

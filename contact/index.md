@@ -50,18 +50,10 @@ Cancer Research Center, BUSM
 Boston, MA 02118
 {:.center}
 
-{% capture col1 %}
+
 {%
   include figure.html
   image="images/BUSM Building.jpg"
   caption="Boston University School of Medicine"
 %}
-{% endcapture %}
-{% capture col2 %}
-{%
-  include figure.html
-  image="images/photo.jpg"
-  caption="Department of Metaphor"
-%}
-{% endcapture %}
-{% include two-col.html col1=col1 col2=col2 %}
+

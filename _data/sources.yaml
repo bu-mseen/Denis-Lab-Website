@@ -34,6 +34,10 @@
       
 - id: doi:10.1101/2022.02.01.478722
   image: https://www.biorxiv.org/content/biorxiv/early/2022/10/19/2022.02.01.478722/F1.large.jpg
+  tags:
+    - Type 2 Diabetes
+    - Exosomes
+    - Cancer
 
 - id: doi:10.4049/jimmunol.1202838
   image: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3608815/figure/F1/?report=objectonly

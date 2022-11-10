@@ -2,7 +2,7 @@
 title: Projects
 nav:
   order: 1
-  tooltip: Ongoing Projects
+  tooltip: Our Projects
 ---
 
 # Current Projects

@@ -150,3 +150,11 @@
   link: https://doi.org/f35qn9
   image: https://onlinelibrary.wiley.com/cms/asset/30ee671a-63d8-4cb8-8c71-403611ee8ce8/imr1142_f2.gif
   _cache: ba5479312cdcfa5166fc8fa538e63f780d33c47ebfa97b02f2ff886c71871069
+- id: pmc:PMC3025494
+  title: Bromodomain coactivators in cancer, obesity, type 2 diabetes, and inflammation
+  authors:
+  - Gerald V Denis
+  publisher: Discovery medicine
+  date: '2010-12-01'
+  link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3025494/
+  _cache: c2d690cbb3ea0b82150abf51eb6d4cf7560450b1a9bd2af39a047621c1a32870

@@ -101,3 +101,41 @@
   link: https://doi.org/gnq375
   image: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3608815/figure/F1/?report=objectonly
   _cache: 938bf2785cfba495ca75cb5c0f064a8bab99a655b9ebe3d8b1b1163565f6259d
+- id: doi:10.1073/pnas.1215840110
+  title: B cells promote inflammation in obesity and type 2 diabetes through regulation
+    of T-cell function and an inflammatory cytokine profile
+  authors:
+  - Jason DeFuria
+  - Anna C. Belkina
+  - Madhumita Jagannathan-Bogdan
+  - Jennifer Snyder-Cappione
+  - Jordan David Carr
+  - Yanina R. Nersesova
+  - Douglas Markham
+  - Katherine J. Strissel
+  - Amanda A. Watkins
+  - Min Zhu
+  - Jessica Allen
+  - Jacqueline Bouchard
+  - Gianluca Toraldo
+  - Ravi Jasuja
+  - Martin S. Obin
+  - Marie E. McDonnell
+  - Caroline Apovian
+  - Gerald V. Denis
+  - Barbara S. Nikolajczyk
+  publisher: Proceedings of the National Academy of Sciences
+  date: '2013-03-11'
+  link: https://doi.org/gq7m3r
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3612635/figure/fig01/?report=objectonly
+  _cache: 54b17f402991d9c1008e8a7547cdad43e146bf105f3ed7217c6e72073ee07414
+- id: doi:10.1038/nrc3256
+  title: BET domain co-regulators in obesity, inflammation and cancer
+  authors:
+  - Anna C. Belkina
+  - Gerald V. Denis
+  publisher: Nature Reviews Cancer
+  date: '2012-06-22'
+  link: https://doi.org/f33rzx
+  image: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fnrc3256/MediaObjects/41568_2012_Article_BFnrc3256_Fig5_HTML.jpg?as=webp
+  _cache: b4948d384cb1869278ba1b215fd1776fea6d8ba9145c390db8bb0e3e34733609

@@ -3,7 +3,7 @@ pi:
   text: Principal Investigator
 
 mds:
-  icon: fas fa-glasses
+  icon: fas fa-stethoscope
   text: Medical Student
 
 phd:

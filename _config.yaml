@@ -5,7 +5,6 @@ title: Denis Lab
 subtitle: Hematology and Oncology
 description: An easy-to-use, flexible website template for labs, with automatic citations, GitHub tag imports, pre-built components, and more.
 logo: images/BU Plate.svg
-logo-text: false
 header: images/Lab Site.jpg
 footer: images/Lab Site.jpg
 baseurl: ""

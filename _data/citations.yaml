@@ -88,7 +88,11 @@
   date: '2022-02-04'
   link: https://doi.org/gq7mz3
   image: https://www.biorxiv.org/content/biorxiv/early/2022/10/19/2022.02.01.478722/F1.large.jpg
-  _cache: f403018aba09ef65b3dd9c4637a906b6a336635f4da4668145f479e4774ba708
+  tags:
+  - Type 2 Diabetes
+  - Exosomes
+  - Cancer
+  _cache: eb2855d261c1b847bec28d58ef038afe1edd802b00b9a751dbf405eafc1e84d2
 - id: doi:10.4049/jimmunol.1202838
   title: 'BET Protein Function Is Required for Inflammation: Brd2 Genetic Disruption
     and BET Inhibitor JQ1 Impair Mouse Macrophage Inflammatory Responses'

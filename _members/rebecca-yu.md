@@ -1,7 +1,7 @@
 ---
 name: Rebecca Yu
 image: images/team/some-image.jpg
-role: phd
+role: undergrad
 description: Undergraduate Student
 
 links:

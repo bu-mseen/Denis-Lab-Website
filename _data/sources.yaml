@@ -40,33 +40,70 @@
     - Cancer
 
 - id: doi:10.4049/jimmunol.1202838
-  image: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3608815/figure/F1/?report=objectonly
+  tags: 
+    - Inflammation
+    - Brd2
   
 - id: doi:10.1073/pnas.1215840110
-  image: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3612635/figure/fig01/?report=objectonly
+  tags:
+    - Type 2 Diabetes
+    - Inflammation
   
 - id: doi:10.1038/nrc3256
   image: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fnrc3256/MediaObjects/41568_2012_Article_BFnrc3256_Fig5_HTML.jpg?as=webp
+  tags: 
+    - Inflammation
+    - Obesity
+    - Cancer
   
 - id: doi:10.1111/j.1600-065X.2012.01142.x
   image: https://onlinelibrary.wiley.com/cms/asset/30ee671a-63d8-4cb8-8c71-403611ee8ce8/imr1142_f2.gif
+  tags:
+    - Type 2 Diabetes
+    - Inflammation
+    - Immunometabolism
 
 - id: pmc:PMC3025494
+  tags:
+    - Cancer
+    - Type 2 Diabetes
+    - Obesity
+    - Inflammation
 
 - id: doi:10.1097/MED.0b013e32833c5c48
+  tags:
+    - Obesity
+    - Type 2 Diabetes
 
 - id: doi:10.1016/j.febslet.2010.05.030
   image: https://febs.onlinelibrary.wiley.com/cms/asset/236b4119-d1a8-4188-8232-c4c2e5bfc953/feb2s0014579310004230-fig1-m.jpg
+  tags:
+    - Obesity
 
 - id: doi:10.1042/BJ20090928
   image: https://port.silverchair-cdn.com/port/content_public/journal/biochemj/425/1/10.1042_bj20090928/2/bj4250071fig2.jpeg?Expires=1671117012&Signature=2y5dXZc3gBTKeOg9E0kxlQ2Yhm4xQSqbIssJVuDpnyC-AXLCTM2j4E4RovDRRmVPyA5uzRjESRoaueL6mKWCYF3sd2t27HanMA2Ru-OBLeqeRsw89obbStwX-jNRgdCRUCA4T3Cw5BTH~6NE3S9gvPZuJgClcH7IKqbTJLXBArh3P83YPE0oBoVoPz0msCIBobVOfnVMGD55h2mYETdhzlQtKdGjl44C7QGmQKmYW5u442P3JbxLPaB290j5dHIwYa6fjrLOazMBab5VVQvbaN~h~iRO2leXPjdRTbl0KUA1DFBrSmhdUE5LGSsbwOAd8clbUoqn0UemTFA6atRriA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA
+  tags:
+    - Obesity
+    - Type 2 Diabetes
+    - Brd2
  
 - id: doi:10.1007/978-3-319-06103-0_5
-  image: https://link.springer.com/chapter/10.1007/978-3-319-06103-0_5/figures/3
+  tags:
+    - Aging
+    - Cancer
+    - Obesity
+    - Inflammation
+    - Type 2 Diabetes
   
 - id: doi:10.1097/01.med.0000433058.78485.b3
+  tags:
+    - Obesity
 
 - id: doi:10.1016/B978-0-12-407766-9.00003-1
+  tags:
+    - Obesity
+    - Brd2
+    - Type 2 Diabetes
 
 - id: doi:10.2741/a668
 

@@ -66,7 +66,7 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
 Katherine Strissel, PhD. <br>
 Guillaume Andrieu, PhD. <br>
 Dequina Nicholas PhD. <br>
-Fangnian Wang, M.D., Ph.D. <>
+Fangnian Wang, M.D., Ph.D. <br>
 Wanda Blanton, M.D. <br>
 Anna Belkina, M.D., Ph.D. <br>
 Hongsheng Liu, D.D.S. <br>

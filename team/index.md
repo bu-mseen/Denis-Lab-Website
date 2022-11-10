@@ -61,16 +61,17 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
 
 ## Join
 
-#### Post Dogtoral Researcher
+### Lab Alumni
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-- 3+ (dog) years experience managing bone portfolios
-- Strong desire to learn tricks and go on walkies
-- Aptitude to sit and stay
-
-{% include link.html type="external" link="https://google.com/" text="Apply Now" icon="" style="button" %}
-{:.center}
+Katherine Strissel, PhD. <br>
+Guillaume Andrieu, PhD. <br>
+Dequina Nicholas PhD. <br>
+Fangnian Wang, M.D., Ph.D. <>
+Wanda Blanton, M.D. <br>
+Anna Belkina, M.D., Ph.D. <br>
+Hongsheng Liu, D.D.S. <br>
+Anupama Sinha <br>
+Paul B. Romesser, M.D. <br>
 
 {% include section.html %}
 

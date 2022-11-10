@@ -65,3 +65,27 @@
     link: https://github.com/greenelab/scihub
     text: Analyses source
   _cache: 483a564e9ddf847e6372cafb31de4673771c3e4da664c0d86a7ea7c38c20318d
+- id: doi:10.1101/2022.02.01.478722
+  title: Novel plasma exosome biomarkers for prostate cancer progression in co-morbid
+    metabolic disease
+  authors:
+  - Naser Jafari
+  - Andrew Chen
+  - Manohar Kolla
+  - Isabella R. Pompa
+  - Yuhan Qiu
+  - Rebecca Yu
+  - Pablo Llevenes
+  - Christina S. Ennis
+  - Joakin Mori
+  - Kiana Mahdaviani
+  - Meredith Halpin
+  - Gretchen A. Gignac
+  - Christopher M. Heaphy
+  - Stefano Monti
+  - Gerald V. Denis
+  publisher: Cold Spring Harbor Laboratory
+  date: '2022-02-04'
+  link: https://doi.org/gq7mz3
+  image: https://www.biorxiv.org/content/biorxiv/early/2022/10/19/2022.02.01.478722/F1.large.jpg
+  _cache: f403018aba09ef65b3dd9c4637a906b6a336635f4da4668145f479e4774ba708

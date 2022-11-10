@@ -1,7 +1,7 @@
 ---
 title: Projects
 nav:
-  order: 5
+  order: 1
   tooltip: Ongoing Projects
 ---
 

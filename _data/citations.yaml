@@ -127,8 +127,8 @@
   publisher: Proceedings of the National Academy of Sciences
   date: '2013-03-11'
   link: https://doi.org/gq7m3r
-  image: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3612635/figure/fig01/?report=objectonly
-  _cache: 54b17f402991d9c1008e8a7547cdad43e146bf105f3ed7217c6e72073ee07414
+  image: https://www.ncbi.nlm.nih.gov/core/lw/2.0/html/tileshop_pmc/tileshop_pmc_inline.html?title=Click%20on%20image%20to%20zoom&p=PMC3&id=3612635_pnas.1215840110fig01.jpg
+  _cache: 0cde2b21279653439c5f82574358387e2354677ca8e08a602c712e2ca072a081
 - id: doi:10.1038/nrc3256
   title: BET domain co-regulators in obesity, inflammation and cancer
   authors:

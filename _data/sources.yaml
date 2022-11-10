@@ -37,3 +37,11 @@
 
 - id: doi:10.4049/jimmunol.1202838
   image: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3608815/figure/F1/?report=objectonly
+  
+- id: doi:10.1073/pnas.1215840110
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3612635/figure/fig01/?report=objectonly
+  
+- id: doi:10.1038/nrc3256
+  image: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fnrc3256/MediaObjects/41568_2012_Article_BFnrc3256_Fig5_HTML.jpg?as=webp
+  
+

@@ -43,9 +43,12 @@ We are located on the 4th floor of the Silvio O. Conte Medical Research Building
 
 ### <i class="fas fa-mail-bulk"></i>Mailing Address
 
-Cancer Research Center, BUSM {:.center}
-72 East Concord Street, Room K-409 {:.center}
-Boston, MA 02118 {:.center}
+Cancer Research Center, BUSM 
+{:.center}
+72 East Concord Street, Room K-409 
+{:.center}
+Boston, MA 02118 
+{:.center}
 
 
 {%

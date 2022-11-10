@@ -205,3 +205,38 @@
   link: https://doi.org/gq7m6t
   image: https://link.springer.com/chapter/10.1007/978-3-319-06103-0_5/figures/3
   _cache: 4b46bd3dcff38eaae946bbcfa5503abe4ef5b41d819d73ba220ac65dba80df57
+- id: doi:10.1097/01.med.0000433058.78485.b3
+  title: Healthy obese persons
+  authors:
+  - Gerald V. Denis
+  - James A. Hamilton
+  publisher: Current Opinion in Endocrinology, Diabetes &amp; Obesity
+  date: '2013-10-01'
+  link: https://doi.org/f5dq3n
+  _cache: 8d17f0121b6a34a2ce7b0b7ad58be7263a94ed8fa704f137531302401f802648
+- id: doi:10.1016/B978-0-12-407766-9.00003-1
+  title: "Brd2 Gene Disruption Causes \u201CMetabolically Healthy\u201D Obesity"
+  authors:
+  - Fangnian Wang
+  - Jude T. Deeney
+  - Gerald V. Denis
+  publisher: Vitamins &amp; Hormones
+  date: '2013-01-01'
+  link: https://doi.org/f4kk7n
+  _cache: be262d8310a6106c9f8d7b126ecb08ba2c6a31e827e293872afee1e6b8f73506
+- id: doi:10.2741/a668
+  title: Bromodomain motifs and scaffolding
+  authors:
+  - Gerald V Denis
+  publisher: Frontiers in Bioscience
+  date: '2001-01-01'
+  link: https://doi.org/gq7m9b
+  _cache: 52c1a879a6021cbf599228c69a9eac8537cd30758e04fc70bcd967176cd6d360
+- id: doi:10.2741/denis
+  title: Duality in bromodomain-containing protein complexes
+  authors:
+  - Gerald, V. Denis
+  publisher: Frontiers in Bioscience
+  date: '2001-01-01'
+  link: https://doi.org/dmhpsg
+  _cache: de39309e257450f022454f9ac05ff4fe6a519f8f6239ddd13153d6ea180f244e

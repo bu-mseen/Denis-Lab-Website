@@ -2,9 +2,9 @@ pi:
   icon: fas fa-microscope
   text: Principal Investigator
 
-postdoc:
+mds:
   icon: fas fa-glasses
-  text: Postdoctoral Researcher
+  text: Medical Student
 
 phd:
   icon: fas fa-graduation-cap
@@ -18,6 +18,6 @@ programmer:
   icon: fas fa-code
   text: Programmer
 
-mascot:
+Lab Technician:
   icon: fas fa-dog
-  text: Mascot
+  text: Lab Technician

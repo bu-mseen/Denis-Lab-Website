@@ -12,7 +12,7 @@ Risks for obesity and its inflammation-driven complications, including pre-diabe
 
 {%
   include link.html
-  link="research/?search='tag:%20Inflammation'"
+  link='research/?search="tag:%20Inflammation"'
   text="See what we've published"
   icon="fas fa-arrow-right"
   flip=true

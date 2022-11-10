@@ -158,3 +158,38 @@
   date: '2010-12-01'
   link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3025494/
   _cache: c2d690cbb3ea0b82150abf51eb6d4cf7560450b1a9bd2af39a047621c1a32870
+- id: doi:10.1097/MED.0b013e32833c5c48
+  title: Obesity genes and insulin resistance
+  authors:
+  - Anna C Belkina
+  - Gerald V Denis
+  publisher: Current Opinion in Endocrinology, Diabetes and Obesity
+  date: '2010-10-01'
+  link: https://doi.org/bcr739
+  _cache: ccee0d538a1291330bf0a65973db254ffb1a678772e1c0aa542315eee8b58283
+- id: doi:10.1016/j.febslet.2010.05.030
+  title: An emerging role for bromodomain-containing proteins in chromatin regulation
+    and transcriptional control of adipogenesis
+  authors:
+  - Gerald V. Denis
+  - Barbara S. Nikolajczyk
+  - Gavin R. Schnitzler
+  publisher: FEBS Letters
+  date: '2010-05-21'
+  link: https://doi.org/fsv8m6
+  image: https://febs.onlinelibrary.wiley.com/cms/asset/236b4119-d1a8-4188-8232-c4c2e5bfc953/feb2s0014579310004230-fig1-m.jpg
+  _cache: 98e2aa1bb3876f32432bd13aafc50b95cfa2b348989fba00fa3d8ee3793d67ee
+- id: doi:10.1042/BJ20090928
+  title: "<i>Brd2</i> disruption in mice causes severe obesity without Type\_2 diabetes"
+  authors:
+  - Fangnian Wang
+  - Hongsheng Liu
+  - "Wanda\_P. Blanton"
+  - Anna Belkina
+  - "Nathan\_K. Lebrasseur"
+  - "Gerald\_V. Denis"
+  publisher: Biochemical Journal
+  date: '2009-12-14'
+  link: https://doi.org/ckdcn8
+  image: https://port.silverchair-cdn.com/port/content_public/journal/biochemj/425/1/10.1042_bj20090928/2/bj4250071fig2.jpeg?Expires=1671117012&Signature=2y5dXZc3gBTKeOg9E0kxlQ2Yhm4xQSqbIssJVuDpnyC-AXLCTM2j4E4RovDRRmVPyA5uzRjESRoaueL6mKWCYF3sd2t27HanMA2Ru-OBLeqeRsw89obbStwX-jNRgdCRUCA4T3Cw5BTH~6NE3S9gvPZuJgClcH7IKqbTJLXBArh3P83YPE0oBoVoPz0msCIBobVOfnVMGD55h2mYETdhzlQtKdGjl44C7QGmQKmYW5u442P3JbxLPaB290j5dHIwYa6fjrLOazMBab5VVQvbaN~h~iRO2leXPjdRTbl0KUA1DFBrSmhdUE5LGSsbwOAd8clbUoqn0UemTFA6atRriA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA
+  _cache: 06d18ed68971d74ebdaf1ec00cb2b9776a4a6dbed2d5e57db05d7f26ca74e26b

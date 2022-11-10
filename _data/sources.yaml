@@ -41,16 +41,19 @@
     - Cancer
 
 - id: doi:10.4049/jimmunol.1202838
+# BET Protein Function Is Required for Inflammation: Brd2 Genetic Disruption and BET Inhibitor JQ1 Impair Mouse Macrophage Inflammatory Responses
   tags: 
     - Inflammation
     - Brd2
   
 - id: doi:10.1073/pnas.1215840110
+# B cells promote inflammation in obesity and type 2 diabetes through regulation of T-cell function and an inflammatory cytokine profile
   tags:
     - Type 2 Diabetes
     - Inflammation
   
 - id: doi:10.1038/nrc3256
+# BET domain co-regulators in obesity, inflammation and cancer
   image: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fnrc3256/MediaObjects/41568_2012_Article_BFnrc3256_Fig5_HTML.jpg?as=webp
   tags: 
     - Inflammation
@@ -58,6 +61,7 @@
     - Cancer
   
 - id: doi:10.1111/j.1600-065X.2012.01142.x
+# The outliers become a stampede as immunometabolism reaches a tipping point
   image: https://onlinelibrary.wiley.com/cms/asset/30ee671a-63d8-4cb8-8c71-403611ee8ce8/imr1142_f2.gif
   tags:
     - Type 2 Diabetes
@@ -65,6 +69,7 @@
     - Immunometabolism
 
 - id: pmc:PMC3025494
+# Bromodomain Coactivators in Cancer, Obesity, Type 2 Diabetes, and Inflammation
   tags:
     - Cancer
     - Type 2 Diabetes
@@ -72,16 +77,19 @@
     - Inflammation
 
 - id: doi:10.1097/MED.0b013e32833c5c48
+# Obesity genes and insulin resistance
   tags:
     - Obesity
     - Type 2 Diabetes
 
 - id: doi:10.1016/j.febslet.2010.05.030
+# An emerging role for bromodomain-containing proteins in chromatin regulation and transcriptional control of adipogenesis
   image: https://febs.onlinelibrary.wiley.com/cms/asset/236b4119-d1a8-4188-8232-c4c2e5bfc953/feb2s0014579310004230-fig1-m.jpg
   tags:
     - Obesity
 
 - id: doi:10.1042/BJ20090928
+# Brd2 disruption in mice causes severe obesity without Type 2 diabetes
   image: https://port.silverchair-cdn.com/port/content_public/journal/biochemj/425/1/10.1042_bj20090928/2/bj4250071fig2.jpeg?Expires=1671117012&Signature=2y5dXZc3gBTKeOg9E0kxlQ2Yhm4xQSqbIssJVuDpnyC-AXLCTM2j4E4RovDRRmVPyA5uzRjESRoaueL6mKWCYF3sd2t27HanMA2Ru-OBLeqeRsw89obbStwX-jNRgdCRUCA4T3Cw5BTH~6NE3S9gvPZuJgClcH7IKqbTJLXBArh3P83YPE0oBoVoPz0msCIBobVOfnVMGD55h2mYETdhzlQtKdGjl44C7QGmQKmYW5u442P3JbxLPaB290j5dHIwYa6fjrLOazMBab5VVQvbaN~h~iRO2leXPjdRTbl0KUA1DFBrSmhdUE5LGSsbwOAd8clbUoqn0UemTFA6atRriA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA
   tags:
     - Obesity
@@ -89,6 +97,7 @@
     - Brd2
  
 - id: doi:10.1007/978-3-319-06103-0_5
+# The Biology of Aging: Role in Cancer, Metabolic Dysfunction, and Health Disparities
   tags:
     - Aging
     - Cancer
@@ -97,15 +106,19 @@
     - Type 2 Diabetes
   
 - id: doi:10.1097/01.med.0000433058.78485.b3
+# Healthy obese persons: how can they be identified and do metabolic profiles stratify risk?
   tags:
     - Obesity
 
 - id: doi:10.1016/B978-0-12-407766-9.00003-1
+# Brd2 Gene Disruption Causes “Metabolically Healthy” Obesity: Epigenetic and Chromatin-Based Mechanisms that Uncouple Obesity from Type 2 Diabetes
   tags:
     - Obesity
     - Brd2
     - Type 2 Diabetes
 
-- id: doi:10.2741/a668
+- id: 
+# Bromodomain motifs and "scaffolding"?
 
 - id: doi:10.2741/denis
+# Duality in bromodomain-containing protein complexes

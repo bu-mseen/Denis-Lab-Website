@@ -13,7 +13,7 @@ Risks for obesity and its inflammation-driven complications, including pre-diabe
 {%
   include link.html
   link='research/?search="tag:%20Inflammation"'
-  text="See what we've published"
+  text="See what we've published about inflammation"
   icon="fas fa-arrow-right"
   flip=true
 %}
@@ -29,13 +29,12 @@ Risks for obesity and its inflammation-driven complications, including pre-diabe
 %}
 
 {% capture text %}
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Obesity is associated with increased risks for cancer of the breast, colon and several other organs. Whereas insulin-resistant obesity is recognized as a chronic inflammatory disease, not all obesity is inflammatory; certain ‘metabolically healthy’ obese (MHO) adults preserve normal metabolism, are glucose tolerant and their fat is not inflamed. Several types of cancer can arise through chronic inflammation, leading us to wonder whether the low-inflammatory profile of MHO adults also protects against obesity-associated cancers. There are insufficient epidemiologic data that address the question of whether obesity and other metabolic abnormalities such as insulin resistance or dyslipidemia interact to promote long-term risk of obesity-associated cancers.
 
 {%
   include link.html
-  link="tools"
-  text="Browse our tools"
+  link='research/?search="tag:%20Obesity"'
+  text="See what we've published about obesity"
   icon="fas fa-arrow-right"
   flip=true
 %}
@@ -46,18 +45,18 @@ Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deseru
   include feature.html
   image="images/photo.jpg"
   link="resources"
-  title="Our Resources"
+  title="Obesity"
   flip=true
   text=text
 %}
 
 {% capture text %}
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Using a targeted epigenetic approach, our lab has shown that it is possible to uncouple obesity from inflammation and diabetes. Our animal studies have produced severely obese mice that are metabolically healthy, have a reduced inflammatory profile and are protected from Type 2 diabetes (mice die of old age). This epigenetic approach involves a family of regulatory proteins called double bromodomain proteins (BET) that bind to acetylated lysines in histones and control gene expression. We are specifically targeting one BET family member, Brd2. We plan to create novel derivatives of a BET inhibitor tool compound that will selectively inhibit Brd2.
 
 {%
   include link.html
-  link="team"
-  text="Meet our team"
+  link='research/?search="tag:%20Brd2"'
+  text="See what we've published about Brd2"
   icon="fas fa-arrow-right"
   flip=true
 %}
@@ -68,6 +67,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
   include feature.html
   image="images/photo.jpg"
   link="team"
-  title="Our Team"
+  title="Small molecule inhibitors of BET proteins"
   text=text
 %}

@@ -1,5 +1,5 @@
 ---
-name: Paul Romesser
+name: Anupama Sinha
 image: https://www.bumc.bu.edu/leukemia-lymphoma-laboratory/files/Images/Anupama.jpg
 role: Lab Technician
 description: Research Associate

@@ -50,6 +50,10 @@ Obesity is associated with increased risks for cancer of the breast, colon and s
   text=text
 %}
 
+
+
+# Previous Projects
+
 {% capture text %}
 Using a targeted epigenetic approach, our lab has shown that it is possible to uncouple obesity from inflammation and diabetes. Our animal studies have produced severely obese mice that are metabolically healthy, have a reduced inflammatory profile and are protected from Type 2 diabetes (mice die of old age). This epigenetic approach involves a family of regulatory proteins called double bromodomain proteins (BET) that bind to acetylated lysines in histones and control gene expression. We are specifically targeting one BET family member, Brd2. We plan to create novel derivatives of a BET inhibitor tool compound that will selectively inhibit Brd2.
 
@@ -70,7 +74,3 @@ Using a targeted epigenetic approach, our lab has shown that it is possible to u
   title="Small molecule inhibitors of BET proteins"
   text=text
 %}
-
-{% include section.html %}
-
-# Previous Projects

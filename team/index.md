@@ -63,6 +63,14 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
 
 ### Lab Alumni
 
+{%
+  include list.html
+  data="members"
+  component="portrait"
+  filters="role: mds, group: alum"
+  style="small"
+%}
+
 Katherine Strissel, PhD. <br>
 Guillaume Andrieu, PhD. <br>
 Dequina Nicholas PhD. <br>

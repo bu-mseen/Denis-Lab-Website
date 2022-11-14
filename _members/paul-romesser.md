@@ -1,5 +1,5 @@
 ---
-name: Paul Romesser
+name: Paul Romesser, M.D.
 image: https://www.bumc.bu.edu/leukemia-lymphoma-laboratory/files/Images/Paul.jpg
 role: mds
 description: Medical Student

@@ -95,16 +95,6 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
   style="small"
 %}{:.center}
 
-Katherine Strissel, PhD. <br>
-Guillaume Andrieu, PhD. <br>
-Dequina Nicholas PhD. <br>
-Fangnian Wang, M.D., Ph.D. <br>
-Wanda Blanton, M.D. <br>
-Anna Belkina, M.D., Ph.D. <br>
-Hongsheng Liu, D.D.S. <br>
-Anupama Sinha <br>
-Paul B. Romesser, M.D. <br>
-
 {% include section.html %}
 
 ## Funding

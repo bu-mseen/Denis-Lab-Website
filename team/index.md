@@ -18,37 +18,37 @@ Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deseru
   include list.html
   data="members"
   component="portrait"
-  filters="role: pi"
+  filters="role: pi, group:"
 %}
 {%
   include list.html
   data="members"
   component="portrait"
-  filters="role: phd"
+  filters="role: phd, group:"
 %}
 {%
   include list.html
   data="members"
   component="portrait"
-  filters="role: programmer"
+  filters="role: programmer, group:"
 %}
 {%
   include list.html
   data="members"
   component="portrait"
-  filters="role: mds"
+  filters="role: mds, group:"
 %}
 {%
   include list.html
   data="members"
   component="portrait"
-  filters="role: undergrad"
+  filters="role: undergrad, group:"
 %}
 {%
   include list.html
   data="members"
   component="portrait"
-  filters="role: Lab Technician"
+  filters="role: Lab Technician, group:"
 %}{:.center}
 
 

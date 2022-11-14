@@ -69,7 +69,7 @@ Using a targeted epigenetic approach, our lab has shown that it is possible to u
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/lab_photos/small molecule BET inhibitos.png"
   link="team"
   title="Small molecule inhibitors of BET proteins"
   text=text

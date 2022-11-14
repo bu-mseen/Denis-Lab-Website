@@ -1,6 +1,6 @@
 ---
 name: Paul Romesser
-image: https://www.bumc.bu.edu/leukemia-lymphoma-laboratory/files/Images/Paul.jpg
+image: https://www.bumc.bu.edu/leukemia-lymphoma-laboratory/files/Images/Anupama.jpg
 role: Lab Technician
 description: Research Associate
 group: alum

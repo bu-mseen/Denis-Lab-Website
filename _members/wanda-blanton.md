@@ -1,7 +1,7 @@
 ---
 name: Wanda Blanton, M.D.
 image: images/members/Wanda2.jpeg
-role: mds
+role: postdoc
 description: Postdoctoral Trainee
 aliases:
   - Wanda Blanton

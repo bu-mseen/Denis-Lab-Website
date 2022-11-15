@@ -3,6 +3,8 @@ name: Guillaume Andrieu, PhD.
 image: https://www.bumc.bu.edu/leukemia-lymphoma-laboratory/files/2008/07/Guillaume-pic.jpg
 role: phd
 description: Research Associate
+aliases:
+  - Guillaume Andrieu
 group: alum
 ---
 

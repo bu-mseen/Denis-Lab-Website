@@ -38,7 +38,7 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/lab_photos/EMT Morph.png"
   link="research"
   title="Our Research"
   text=text

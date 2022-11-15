@@ -21,3 +21,15 @@ programmer:
 Lab Technician:
   icon: fas fa-flask
   text: Lab Technician
+
+RA:
+  icon: fas fa-book-open-cover
+  text: Research Associate
+  
+masters:
+  icon: fas fa-glasses-round
+  text: Masters Student
+
+postdoc:
+  icon: fas fa-diploma
+  text: Postdoctoral Researcher

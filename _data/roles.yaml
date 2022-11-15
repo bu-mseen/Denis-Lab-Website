@@ -23,13 +23,13 @@ Lab Technician:
   text: Lab Technician
 
 RA:
-  icon: fas fa-flask
+  icon: fas fa-vial
   text: Research Associate
   
 masters:
-  icon: fa-solid fa-glasses-round
+  icon: fa-solid fa-book-open
   text: Masters Student
 
 postdoc:
-  icon: fas fa-diploma
+  icon: fas fa-pen-fancy
   text: Postdoctoral Researcher

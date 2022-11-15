@@ -1,6 +1,6 @@
 ---
 name: Fangnian Wang, M.D., Ph.D.
-image: https://github.com/bu-mseen/Denis-Lab.github.io/blob/main/images/members/Fangnian.jpeg
+image: images/members/Fangnian.jpeg
 role: Lab Technician
 description: Research Associate
 aliases:

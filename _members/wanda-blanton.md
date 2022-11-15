@@ -3,6 +3,10 @@ name: Wanda Blanton, M.D.
 image: https://www.bumc.bu.edu/leukemia-lymphoma-laboratory/files/Images/Wanda2.jpg
 role: mds
 description: Postdoctoral Trainee
+aliases:
+  - Wanda Blanton
+  - Wanda P. Blanton
+  - Wanda P Blanton
 group: alum
 ---
 

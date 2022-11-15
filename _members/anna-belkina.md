@@ -1,6 +1,6 @@
 ---
 name: Anna Belkina, M.D., Ph.D.
-image: https://github.com/bu-mseen/Denis-Lab.github.io/blob/main/images/members/Anna.jpeg
+image: images/members/Anna.jpeg
 role: phd
 description: PhD Student
 aliases:

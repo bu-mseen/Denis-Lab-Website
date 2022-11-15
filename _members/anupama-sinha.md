@@ -1,6 +1,6 @@
 ---
 name: Anupama Sinha
-image: https://www.bumc.bu.edu/leukemia-lymphoma-laboratory/files/Images/Anupama.jpg
+image: https://github.com/bu-mseen/Denis-Lab.github.io/blob/main/images/members/Anupama.jpeg
 role: Lab Technician
 description: Research Associate
 group: alum

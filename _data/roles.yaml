@@ -27,7 +27,7 @@ RA:
   text: Research Associate
   
 masters:
-  icon: fas fa-glasses-round
+  icon: <i class="fa-solid fa-glasses-round"></i>
   text: Masters Student
 
 postdoc:

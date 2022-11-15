@@ -1,7 +1,7 @@
 ---
 name: Anupama Sinha
 image: images/members/Anupama.jpeg
-role: Lab Technician
+role: RA
 description: Research Associate
 group: alum
 ---

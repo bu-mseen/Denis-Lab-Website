@@ -1,6 +1,6 @@
 ---
 name: Hongsheng Liu, D.D.S.
-image: https://www.bumc.bu.edu/leukemia-lymphoma-laboratory/files/Images/Hongsheng.jpg
+image: images/members/Hongsheng.jpeg
 role: mds
 description: Medical Student
 aliases:

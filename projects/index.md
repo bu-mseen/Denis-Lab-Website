@@ -157,3 +157,23 @@ We are investigating potential new therapeutic targets and anti-cancer pharmaceu
   title="Pharmaceutical development and experimental therapeutics for lymphoid cancers"
   text=text
 %}
+
+{% capture text %}
+‘Leaky’ knockout of Brd2 in mice leads to a hypomorphic phenotype. The mice quite surprisingly develop severe obesity on regular chow, which is an extraordinary enough phenotype for a disrupted MHC II gene, but these mice also manage to avoid whole-body insulin resistance and Type 2 diabetes. This observation has potentially major significance for immunology because a cohort of obese humans who are known to avoid Type 2 diabetes also tend to show a reduced inflammatory profile, but the mechanisms that confer this protection are not well understood. It is well known that alleles in the MHC II locus are linked to Type 1 diabetes, specifically through the mobilization of autoimmune processes. Our new observations also suggest that innate and adaptive immune responses are also important for body energy balance and disposal of blood glucose through the ability of Brd2 to regulate the chromatin status of key target genes for adipogenesis, inflammation and growth. We also suspect that polymorphism of BRD2 and related genes may play an important role in human development.
+{%
+  include link.html
+  link='research/?search="tag:%20Brd2"'
+  text="See what we've published about Brd2 transcriptional control of adipogenesis and inflammation"
+  icon="fas fa-arrow-right"
+  flip=true
+%}
+{:.center}
+{% endcapture %}
+{%
+  include feature.html
+  image="images/photo.jpg"
+  link="team"
+  title="Brd2 transcriptional control of adipogenesis and inflammation"
+  flip=true
+  text=text
+%}

@@ -1,8 +1,8 @@
 ---
 name: Hongsheng Liu, D.D.S.
 image: images/members/Hongsheng.jpeg
-role: mds
-description: Medical Student
+role: postdoc
+description: Postdoctoral Research Associate
 aliases:
   - Hongsheng Liu
 group: alum

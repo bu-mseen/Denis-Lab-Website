@@ -1,8 +1,8 @@
 ---
 name: Guillaume Andrieu, PhD.
 image: images/members/Guillaume.jpeg
-role: phd
-description: Research Associate
+role: postdoc
+description: Postdoctoral Research Associate
 aliases:
   - Guillaume Andrieu
 group: alum

@@ -58,7 +58,7 @@ See the exciting research projects our lab is currently conducting, as well as s
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/lab_photos/Exosome%20Diagram.jpg"
   link="projects"
   title="Our Projects"
   flip=true

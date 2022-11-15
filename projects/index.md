@@ -93,6 +93,7 @@ Brd2 functions at least in part through a pathway that targets the gene cyclin A
   image="https://www.bumc.bu.edu/leukemia-lymphoma-laboratory/files/Images/leukemia.jpg"
   link="team"
   title="B Cell Malignancy"
+  flip=true
   text=text
 %}
 
@@ -134,6 +135,7 @@ We employ these methods to investigate the malignancy-specific signature of huma
   image="images/photo.jpg"
   link="team"
   title="Transcriptional and proteomic profiling of lymphomas"
+  flip=true
   text=text
 %}
 

@@ -3,6 +3,8 @@ name: Dequina Nicholas PhD.
 image: https://www.bumc.bu.edu/leukemia-lymphoma-laboratory/files/Images/Anupama.jpg
 role: phd
 description: Research Associate
+aliases:
+  - Dequina Nicholas
 group: alum
 ---
 

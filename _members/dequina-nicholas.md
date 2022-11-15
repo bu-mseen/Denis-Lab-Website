@@ -1,6 +1,6 @@
 ---
 name: Dequina Nicholas PhD.
-image: https://www.bumc.bu.edu/leukemia-lymphoma-laboratory/files/Images/Anupama.jpg
+image: https://github.com/bu-mseen/Denis-Lab.github.io/blob/main/images/members/Dequina.jpeg
 role: phd
 description: Research Associate
 aliases:

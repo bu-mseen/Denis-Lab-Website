@@ -1,7 +1,7 @@
 ---
 name: Anoushka Darga
 image: images/team/some-image.jpg
-role: phd
+role: masters
 description: Graduate Student
 
 links:

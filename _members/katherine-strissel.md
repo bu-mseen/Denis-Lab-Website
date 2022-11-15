@@ -1,8 +1,8 @@
 ---
 name: Katherine Strissel, PhD.
 image: images/members/KJStrissel.jpeg
-role: phd
-description: Research Associate
+role: postdoc
+description: Co-investigator
 aliases:
  - Katherine Strissel
  - Katherine J. Strissel

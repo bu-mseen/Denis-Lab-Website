@@ -1,6 +1,6 @@
 ---
 name: Katherine Strissel, PhD.
-image: https://www.bumc.bu.edu/leukemia-lymphoma-laboratory/files/2008/07/KJStrissel.jpg
+image: images/members/KJStrissel.jpeg
 role: phd
 description: Research Associate
 aliases:

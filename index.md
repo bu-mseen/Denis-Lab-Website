@@ -45,8 +45,7 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
 %}
 
 {% capture text %}
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+See the exciting research projects our lab is currently conducting, as well as some of our previous projects.
 
 {%
   include link.html
@@ -61,8 +60,8 @@ Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deseru
 {%
   include feature.html
   image="images/photo.jpg"
-  link="resources"
-  title="Our Resources"
+  link="projects"
+  title="Our Projects"
   flip=true
   text=text
 %}

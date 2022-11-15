@@ -3,6 +3,10 @@ name: Anna Belkina, M.D., Ph.D.
 image: https://www.bumc.bu.edu/leukemia-lymphoma-laboratory/files/Images/Anna.jpg
 role: phd
 description: PhD Student
+aliases:
+  - Anna C. Belkina
+  - Anna C Belkina
+  - Anna Belkina
 group: alum
 ---
 

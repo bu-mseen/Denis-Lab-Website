@@ -24,6 +24,12 @@ Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deseru
   include list.html
   data="members"
   component="portrait"
+  filters="role: postdoc, group:"
+%}
+{%
+  include list.html
+  data="members"
+  component="portrait"
   filters="role: phd, group:"
 %}
 {%
@@ -42,7 +48,19 @@ Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deseru
   include list.html
   data="members"
   component="portrait"
+  filters="role: masters, group:"
+%}
+{%
+  include list.html
+  data="members"
+  component="portrait"
   filters="role: undergrad, group:"
+%}
+{%
+  include list.html
+  data="members"
+  component="portrait"
+  filters="role: RA, group:"
 %}
 {%
   include list.html
@@ -67,10 +85,16 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
   include list.html
   data="members"
   component="portrait"
+  filters="role: postdoc, group: alum"
+  style="small"
+%}
+{%
+  include list.html
+  data="members"
+  component="portrait"
   filters="role: phd, group: alum"
   style="small"
 %}
-
 {%
   include list.html
   data="members"
@@ -78,7 +102,13 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
   filters="role: mds, group: alum"
   style="small"
 %}
-
+{%
+  include list.html
+  data="members"
+  component="portrait"
+  filters="role: masters, group: alum"
+  style="small"
+%}
 {%
   include list.html
   data="members"
@@ -86,7 +116,13 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
   filters="role: undergrad, group: alum"
   style="small"
 %}
-
+{%
+  include list.html
+  data="members"
+  component="portrait"
+  filters="role: RA, group: alum"
+  style="small"
+%}
 {%
   include list.html
   data="members"

@@ -1,8 +1,8 @@
 ---
 name: Fangnian Wang, M.D., Ph.D.
 image: images/members/Fangnian.jpeg
-role: Lab Technician
-description: Research Associate
+role: postdoc
+description: Postdoctoral Fellow
 aliases:
   - Fangnian Wang
 group: alum

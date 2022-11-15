@@ -1,8 +1,8 @@
 ---
 name: Dequina Nicholas PhD.
 image: images/members/Dequina.jpeg
-role: phd
-description: Research Associate
+role: postdoc
+description: Postdoctoral Researcher
 aliases:
   - Dequina Nicholas
 group: alum

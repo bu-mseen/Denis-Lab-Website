@@ -16,7 +16,7 @@ Brd2 is highly related to a Drosophila developmental factor called female steril
 
 {% include section.html full=true %}
 
-{% include section.html image="images/site_wide/Site Banner.png" dark=true%}
+{% include section.html background="images/site_wide/Site Banner.png" dark=true%}
 
 # Highlights
 {% include section.html %}

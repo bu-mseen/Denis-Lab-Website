@@ -217,3 +217,17 @@
   date: '2001-01-01'
   link: https://doi.org/dmhpsg
   _cache: de39309e257450f022454f9ac05ff4fe6a519f8f6239ddd13153d6ea180f244e
+- id: doi:10.1038/s41574-022-00666-7
+  title: Exosomes as novel biomarkers in metabolic disease and obesity-related cancers
+  authors:
+  - Naser Jafari
+  - Pablo Llevenes
+  - Gerald V. Denis
+  publisher: Nature Reviews Endocrinology
+  date: '2022-03-31'
+  link: https://doi.org/gq8mqw
+  tags:
+  - Exosomes
+  - Cancer
+  - Diabetes
+  _cache: c61d7290b37bfb6a523363ac6e3ed8c3653643b21bd7f9dda768fc6a945f5c47

@@ -3,6 +3,10 @@ name: Gerald Denis, PhD
 image: images/team/some-image.jpg
 role: pi
 description: Principal Investigator
+aliases:
+  - Gerald V. Denis
+  - Gerald V Denis
+  - Gerald Denis
 
 links:
   home-page: https://tims-website.com/

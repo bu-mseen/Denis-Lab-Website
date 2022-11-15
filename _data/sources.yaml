@@ -89,3 +89,13 @@
 
 - id: doi:10.2741/denis
 # Duality in bromodomain-containing protein complexes
+
+- id: doi:10.1038/s41574-022-00666-7
+  tags: 
+        - Exosomes
+        - Cancer
+        - Diabetes
+      # Exosomes as novel biomarkers in metabolic disease and obesity-related cancers
+
+
+

@@ -1,6 +1,6 @@
 ---
 name: Fangnian Wang, M.D., Ph.D.
-image: https://www.bumc.bu.edu/leukemia-lymphoma-laboratory/files/Images/Fangnian.jpg
+image: https://github.com/bu-mseen/Denis-Lab.github.io/blob/main/images/members/Fangnian.jpeg
 role: Lab Technician
 description: Research Associate
 aliases:

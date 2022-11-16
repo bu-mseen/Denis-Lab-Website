@@ -7,7 +7,7 @@ nav:
 
 # <i class="fas fa-envelope"></i>Contact
 
-Our lab is part of the [Department of Hematology and Medical Oncology](https://www.bumc.bu.edu/hematology/), at the Boston University [Chobanian and Advisian School of Medicine](https://www.bumc.bu.edu/).
+Our lab is part of the [Department of Hematology and Medical Oncology](https://www.bumc.bu.edu/hematology/), at the Boston University [Chobanian & Avedisian School of Medicine](https://www.bumc.bu.edu/).
 We are located on the 4th floor of the Silvio O. Conte Medical Research Building
 
 {%
